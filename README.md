@@ -1,3 +1,6 @@
+# This repository is now maintained as JoyPixels/emoji-toolkit-ios.
+You'll find the latest version of our resources at [emoji-toolkit-ios](https://github.com/joypixels/emoji-toolkit-ios). 
+
 # ![EmojiOne Logo](https://www.emojione.com/images/vectors/emojione-typeface.svg)
 
 > [![Version](https://img.shields.io/cocoapods/v/emojione-ios.svg?style=flat)](https://cocoapods.org/pods/emojione-ios)
